@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Text Recognition</string>
+    <string name="text_detector_from_image">Text Detector From Image</string>
+</resources>
